@@ -4,7 +4,7 @@ public class view {
 
 	
     public static void run() {
-    	JFrame fenster = new JFrame("Hallo Welt mit Swing");
+    	JFrame fenster = new JFrame("KingPong");
         fenster.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JLabel label = new JLabel("123gdhn6hqwgthqw42u4");
         
